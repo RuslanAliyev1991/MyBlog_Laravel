@@ -1,0 +1,40 @@
+.fail{
+    margin-top: 5px;
+    height: 20px;
+    width: 100%;
+    color: red;
+    padding-left: 18px;
+    font-size: 13px;
+}
+
+
+/* ::-webkit-input-placeholder {
+   
+    color: #909 !important;
+}
+
+:-moz-placeholder {
+    
+    color: #909 !important;
+    opacity: 1 !important;
+}
+
+::-moz-placeholder {
+    
+    color: #909 !important;
+    opacity: 1 !important;
+}
+
+:-ms-input-placeholder {
+    
+    color: #909 !important;
+}
+
+::-ms-input-placeholder {
+    
+    color: #909 !important;
+}
+
+::placeholder {
+    color: #909 !important;
+} */
